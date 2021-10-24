@@ -1,8 +1,8 @@
 ### Hi there, I'm Lucas - aka [xAfterLife] 👋
 
-## I'm a IT-Specialist for Application Development, Computer Science Student, Developer, and Photographer
+## I'm a IT-Specialist for Applic. Dev., Computer Science Student and Photographer
 
-- I've completed training as an IT specialist for application development
+- I've completed training as an IT specialist for Application-development
 - I am always looking for new things to learn
 - I am currently studying Applied Computer Science
 - I love photography and music
