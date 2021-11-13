@@ -38,6 +38,7 @@
 <details>
  <summary>:zap: GitHub Stats</summary>
  <img align="left" alt="xAfterLife's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=xAfterLife&count_private=true&show_icons=true&theme=tokyonight" />
+ <img align="left" alt="xAfterLife's Most used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xAfterLife" />
 </details>
 
 [discord]: https://discordapp.com/users/257984483255517185/
