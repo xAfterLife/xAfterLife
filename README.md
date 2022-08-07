@@ -41,5 +41,8 @@
  <img align="right" alt="xAfterLife's Most used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xAfterLife&count_private=true&show_icons=true&theme=tokyonight" />
 </details>
 
+### Hey Flori, am stalken? :3
+Add mich doch mal als Discord freund :P
+
 [discord]: https://discordapp.com/users/257984483255517185/
 [instagram]: https://instagram.com/afterlife.arts/
