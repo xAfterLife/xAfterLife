@@ -8,8 +8,6 @@
 - I love photography and music
 
 ### Connect with me:
-
-[<img align="left" alt="afterlife.arts | Instagram" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="AfterLife#8695 | Discord" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
 
 <br />
@@ -41,8 +39,4 @@
  <img align="right" alt="xAfterLife's Most used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xAfterLife&count_private=true&show_icons=true&theme=tokyonight" />
 </details>
 
-### Hey Flori, am stalken? :3
-Add mich doch mal als Discord freund :P
-
 [discord]: https://discordapp.com/users/257984483255517185/
-[instagram]: https://instagram.com/afterlife.arts/
